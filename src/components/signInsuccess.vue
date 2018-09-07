@@ -1,3 +1,0 @@
-<template>
-  <div>签到成功</div>
-</template>
